@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-My name is Luiz Bertoni. I work as a full-stack software engineer! In my free time, I do some fun side projects for Foundry VTT.
+My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/luizbertoni). I work as a full-stack software engineer! In my free time, I do some [fun side projects](https://foundryvtt.com/community/luizbertoni/packages) for Foundry VTT.
 
 📫 How to reach me:
 
