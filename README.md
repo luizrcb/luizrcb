@@ -12,7 +12,6 @@
 My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/luizbertoni). I work as a full-stack software engineer! In my free time, I do some [fun side projects](https://foundryvtt.com/community/luizbertoni/packages) for Foundry VTT.
 
 <!-- TOTAL-DOWNLOADS-BADGE -->
-![Total Downloads Across All Repositories](https://img.shields.io/badge/Total%20Downloads-0-black?logo=github&logoColor=white) 
 - ![Dice Oracles](https://img.shields.io/github/downloads/luizrcb/dice-oracles/total?label=Dice%20Oracles&color=red)
 - ![Disposition Initiative](https://img.shields.io/github/downloads/luizrcb/disposition-initiative/total?label=Disposition%20Initiative&color=orange)
 - ![FoundryVTT SDM](https://img.shields.io/github/downloads/luizrcb/foundryvtt-sdm/total?label=FoundryVTT%20Synthetic%20Dream%20Machine&color=yellow) 
@@ -37,4 +36,5 @@ My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/l
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=luizrcb&hide_border=true)
 
 > Created with [Ritchie Formulas Github](https://github.com/GuillaumeFalourd/formulas-github)
+
 
