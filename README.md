@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/luizbertoni). I work as a full-stack software engineer! In my free time, I do some [fun side projects](https://foundryvtt.com/community/luizbertoni/packages) for Foundry VTT.
+My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/luizbertoni). I work as a full-stack software engineer! In my free time, I do some [fun side projects](https://foundryvtt.com/community/luizbertoni/packages) for Foundry VTT (modules adding up to over 100,000 downloads)
 
 <!-- TOTAL-DOWNLOADS-BADGE -->
 - ![Dice Oracles](https://img.shields.io/github/downloads/luizrcb/dice-oracles/total?label=Dice%20Oracles&color=red)
@@ -36,5 +36,6 @@ My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/l
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=luizrcb&hide_border=true)
 
 > Created with [Ritchie Formulas Github](https://github.com/GuillaumeFalourd/formulas-github)
+
 
 
