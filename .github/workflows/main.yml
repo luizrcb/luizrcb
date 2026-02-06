@@ -1,0 +1,34 @@
+name: Update Total Downloads
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Get Total Downloads
+        run: |
+          REPOS="luizrcb/foundryvtt-sdm luizrcb/disposition-initiative luizrcb/token-action-hud-sdm luizrcb/dice-oracles luizrcb/item-piles-sdm luizrcb/seasons-and-stars-sdm"
+          TOTAL=0
+          
+          for REPO in $REPOS; do
+            COUNT=$(curl -s "https://api.github.com/repos/$REPO/releases" | \
+              jq '[.[].assets[].download_count] | add // 0' || echo 0)
+            TOTAL=$((TOTAL + COUNT))
+          done
+          
+          # Update README with custom badge
+          sed -i "s/\!\[Total Downloads\].*/![Total Downloads](https:\/\/img.shields.io\/badge\/Downloads-$TOTAL-blue?logo=github)/g" README.md
+          
+      - name: Push Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update total downloads: $TOTAL" || exit 0
+          git push
