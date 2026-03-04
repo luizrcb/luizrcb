@@ -22,7 +22,7 @@ My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/l
 
 📫 How to reach me:
 
-- LinkedIn: [Luiz Bertoni](www.linkedin.com/in/luizbertoni)
+- LinkedIn: [Luiz Bertoni](https://linkedin.com/in/luizbertoni)
 
 - Discord: [luizbertoni](https://discord.com/users/383555462668484608)
 
@@ -37,6 +37,7 @@ My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/l
 <!-- ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=luizrcb&hide_border=true) -->
 
 > Created with [Ritchie Formulas Github](https://github.com/GuillaumeFalourd/formulas-github)
+
 
 
 
