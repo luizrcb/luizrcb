@@ -9,15 +9,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/luizbertoni). I work as a full-stack software engineer! In my free time, I do some [fun side projects](https://foundryvtt.com/community/luizbertoni/packages) for Foundry VTT (modules adding up to over 200,000 downloads)
+My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/luizbertoni). I work as a full-stack software engineer! In my free time, I do some [fun side projects](https://foundryvtt.com/community/luizbertoni/packages) for Foundry VTT (modules adding up to over 300,000 downloads)
 
 <!-- TOTAL-DOWNLOADS-BADGE -->
 - ![Dice Oracles](https://img.shields.io/github/downloads/luizrcb/dice-oracles/total?label=Dice%20Oracles&color=red&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fdice-oracles)
-- ![Disposition Initiative](https://img.shields.io/github/downloads/luizrcb/disposition-initiative/total?label=Disposition%20Initiative&color=orange&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fdisposition-initiative)
-- ![FoundryVTT SDM](https://img.shields.io/github/downloads/luizrcb/foundryvtt-sdm/total?label=FoundryVTT%20Synthetic%20Dream%20Machine&color=yellow&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Ffoundryvtt-sdm) 
-- ![Token Action HUD SDM](https://img.shields.io/github/downloads/luizrcb/token-action-hud-sdm/total?label=Token%20Action%20HUD%20SDM&color=green&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Ftoken-action-hud-sdm)
-- ![Item Piles SDM](https://img.shields.io/github/downloads/luizrcb/item-piles-sdm/total?label=Item%20Piles%20SDM&color=blue&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fitem-piles-sdm)
-- ![Seasons and Stars SDM](https://img.shields.io/github/downloads/luizrcb/seasons-and-stars-sdm/total?label=Seasons%20and%20Stars%20SDM&color=violet&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fseasons-and-stars-sdm)
+- ![Item Piles SDM](https://img.shields.io/github/downloads/luizrcb/item-piles-sdm/total?label=Item%20Piles%20SDM&color=yellow&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fitem-piles-sdm)
+- ![FoundryVTT SDM](https://img.shields.io/github/downloads/luizrcb/foundryvtt-sdm/total?label=FoundryVTT%20SDM&color=orange&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Ffoundryvtt-sdm)
+- ![Disposition Initiative](https://img.shields.io/github/downloads/luizrcb/disposition-initiative/total?label=Disposition%20Initiative&color=violet&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fdisposition-initiative)
+- ![Shadowdark RPG BR](https://img.shields.io/github/downloads/luizrcb/shadowdark-rpg-br/total?label=Shadowdark%20RPG%20BR&color=green&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fshadowdark-rpg-br)
+- ![Token Action HUD SDM](https://img.shields.io/github/downloads/luizrcb/token-action-hud-sdm/total?label=Token%20Action%20HUD%20SDM&color=blue&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Ftoken-action-hud-sdm)
+- ![Seasons and Stars SDM](https://img.shields.io/github/downloads/luizrcb/seasons-and-stars-sdm/total?label=Seasons%20and%20Stars%20SDM&color=indigo&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fseasons-and-stars-sdm)
 
 
 📫 How to reach me:
