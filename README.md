@@ -13,12 +13,12 @@ My name is Luiz Bertoni also known as [Luber](https://foundryvtt.com/community/l
 
 <!-- TOTAL-DOWNLOADS-BADGE -->
 - ![Dice Oracles](https://img.shields.io/github/downloads/luizrcb/dice-oracles/total?label=Dice%20Oracles&color=red&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fdice-oracles)
-- ![Item Piles SDM](https://img.shields.io/github/downloads/luizrcb/item-piles-sdm/total?label=Item%20Piles%20SDM&color=orange&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fitem-piles-sdm)
-- ![FoundryVTT SDM](https://img.shields.io/github/downloads/luizrcb/foundryvtt-sdm/total?label=FoundryVTT%20SDM&color=yellow&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Ffoundryvtt-sdm)
+- ![Item Piles WTF](https://img.shields.io/github/downloads/luizrcb/item-piles-sdm/total?label=Item%20Piles%20SDM&color=orange&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fitem-piles-sdm)
+- ![FoundryVTT WTF](https://img.shields.io/github/downloads/luizrcb/foundryvtt-sdm/total?label=FoundryVTT%20SDM&color=yellow&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Ffoundryvtt-sdm)
 - ![Disposition Initiative](https://img.shields.io/github/downloads/luizrcb/disposition-initiative/total?label=Disposition%20Initiative&color=green&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fdisposition-initiative)
 - ![Shadowdark RPG BR](https://img.shields.io/github/downloads/luizrcb/shadowdark-rpg-br/total?label=Shadowdark%20RPG%20BR&color=blue&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fshadowdark-rpg-br)
-- ![Token Action HUD SDM](https://img.shields.io/github/downloads/luizrcb/token-action-hud-sdm/total?label=Token%20Action%20HUD%20SDM&color=094293&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Ftoken-action-hud-sdm)
-- ![Seasons and Stars SDM](https://img.shields.io/github/downloads/luizrcb/seasons-and-stars-sdm/total?label=Seasons%20and%20Stars%20SDM&color=7F00FF&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fseasons-and-stars-sdm)
+- ![Token Action HUD WTF](https://img.shields.io/github/downloads/luizrcb/token-action-hud-sdm/total?label=Token%20Action%20HUD%20SDM&color=094293&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Ftoken-action-hud-sdm)
+- ![Seasons and Stars WTF](https://img.shields.io/github/downloads/luizrcb/seasons-and-stars-sdm/total?label=Seasons%20and%20Stars%20SDM&color=7F00FF&link=https%3A%2F%2Fgithub.com%2Fluizrcb%2Fseasons-and-stars-sdm)
 
 
 📫 How to reach me:
